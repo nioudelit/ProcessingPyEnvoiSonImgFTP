@@ -7,3 +7,6 @@ Il permet d’envoyer des images ou des sons générées par Processing dans un 
 
 Ci-dessus, une série de déclinaison d'images générées avec Processing envoyées automatiquement sur un serveur FTP, puis lu via PHP.
 
+![GitHub Logo](/capture2.png)
+
+Ci-dessus, la même chose, avec du son et des images.
